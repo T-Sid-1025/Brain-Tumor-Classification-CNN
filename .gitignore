@@ -1,0 +1,12 @@
+best_brain_tumor_model.h5
+model_final_best.h5
+model_clean_working.h5
+training_history.zip
+new_dataset/
+labels.pickle
+training_data.pickle
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
